@@ -16,6 +16,8 @@ import java.util.Date;
  *  We assume that user can withdraw a total amount that can not pass 'totalMoneyPerDay'
  *  Every new day we set it to zero.
  *  atm table already has some registers for simplicity.
+ *  
+ *  
  */
 
 
