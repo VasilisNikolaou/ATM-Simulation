@@ -11,10 +11,11 @@ import java.util.Date;
 
 /*
  *  I have already created a database called atm
- *  Database already have a table called atm with 4 columns (balance integer, total integer, id primary key integer, date date)
+ *  Database has already been initialized with 
+ *  a table called atm with 4 columns (balance integer, total integer, id primary key integer, date date)
  *  We assume that user can withdraw a total amount that can not pass 'totalMoneyPerDay'
  *  Every new day we set it to zero.
- *  atm table already have some registers for simplicity.
+ *  atm table already has some registers for simplicity.
  */
 
 
